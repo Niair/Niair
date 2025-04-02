@@ -25,6 +25,7 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 **📋 Languages**  
 Python | SQL | Java | HTML/CSS
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
@@ -74,6 +75,30 @@ Python | SQL | Java | HTML/CSS
 - Feature Engineering & Model Optimization  
 - Automated Web Scraping & Data Pipelines  
 - Real-time Analytics & Dashboard Design
+
+---
+
+## 🚀 Projects
+
+**1️⃣ Titanic Survival Prediction**  
+- Developed a machine learning model to predict survival chances using Scikit-learn.  
+- Implemented data preprocessing, feature engineering, and model evaluation.  
+🔗 [View Project](#)
+
+**2️⃣ Iris Flower Classification**  
+- Built and optimized a classifier to identify iris species.  
+- Demonstrated model accuracy improvements through iterative refinements.  
+🔗 [View Project](#)
+
+**3️⃣ Power BI IPL Dashboard (Live)**  
+- Created an interactive dashboard analyzing IPL data in real time using Power BI.  
+- Leveraged DAX and Power Query for dynamic data visualizations.  
+🔗 [View Dashboard](#)
+
+**4️⃣ Book Recommender System**  
+- Designed a recommendation engine using collaborative filtering and content-based approaches.  
+- Enhanced user experience with personalized book suggestions.  
+🔗 [View Project](#)
 
 ---
 
