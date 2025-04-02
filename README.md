@@ -25,7 +25,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 **📋 Languages**  
 Python | SQL | Java | HTML/CSS
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
