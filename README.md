@@ -1,62 +1,96 @@
-👋 Hi, I'm Nihal Kumar
-Data Scientist | Data Analytics 
+# 👋 Nihal Kumar  
+**Data Scientist | Data Analytics**
 
-🚀 Passionate about solving real-world problems with Machine Learning, Data Science, and AI. I specialize in building deployable ML models, creating interactive dashboards, and extracting valuable insights from data. With expertise in Python, SQL, and Power BI, I aim to bridge the gap between data and decision-making through impactful solutions.
+🌟 Welcome to my GitHub profile!
 
-🌟 About Me
-🎓 MCA | Amity Noida (2026) | 7.63 CGPA
+I’m passionate about coding and machine learning, dedicated to turning innovative ideas into actionable projects. My focus is on developing end-to-end ML models, performing insightful analytics, and designing interactive dashboards to support data-driven decision-making.
 
-🎓 BCA | SGTBIMIT (2024) | 8.826 CGPA
+---
 
-🔍 Aspiring Data Scientist & Educator
+## 🚀 Professional Profile
 
-💡 Bringing AI & ML to Production
+**📚 Education**  
+- **MCA** | Amity Noida | Last Semester Grade: 7.63 *(Post Graduation: 2026)*  
+- **BCA** | SGTBIMIT | CGPA: 8.826 *(Graduation: 2024)*
 
-📊 Building Professional Dashboards in Power BI
+**🔍 Core Expertise**  
+- **Machine Learning**: Predictive Modeling, Deep Learning  
+- **Deployment**: Production-grade ML models using Scikit-learn, Streamlit, and Flask  
+- **Visualization**: Crafting interactive dashboards with Power BI and Tableau
 
-🏆 Core Expertise
-✔ Machine Learning & AI: Predictive Modeling, Machine Learning, Deep Learning
-✔ Data Analytics: Insights, Trend Analysis, Storytelling with Data
-✔ Model Deployment: Scalable ML Pipelines (Flask, Streamlit, FastAPI)
-✔ Power BI & SQL: Advanced DAX, Data Cleaning, Interactive Dashboards
-✔ Web Scraping & Automation: Selenium, BeautifulSoup, API Integration
+---
 
-🛠️ My Technical Toolkit
-📋 Programming & Query Languages
+## 🛠️ Technical Toolkit
+
+**📋 Languages**  
 Python | SQL | Java | HTML/CSS
 
-📊 Data Science Stack
-✅ Pandas, NumPy, Scikit-learn
-✅ Matplotlib, Seaborn, Power BI, Tableau
-✅ Jupyter Notebook, Google Colab
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> &nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
+</p>
 
-🚀 Deployment & DevOps
-✔ Streamlit, Flask, FastAPI
-✔ MySQL, PostgreSQL, SQLite
-✔ Heroku, GitHub Actions, Docker
+**🧰 Frameworks & Libraries**  
+- **Data Science**: Pandas, NumPy, Scikit-learn  
+- **Data Visualization**: matplotlib, seaborn  
+- **Machine Learning**: TensorFlow, Scikit-learn  
+- **Tools**: Jupyter, Git, MySQL, Selenium, Power BI  
 
-📌 Featured Projects
-1️⃣ Book Recommender System
-📌 Developed an ML-based book recommendation engine with image-based suggestions
-🔗 GitHub Repository
+**🎯 Specializations**  
+- Feature Engineering & Model Optimization  
+- Automated Web Scraping & Data Pipelines  
+- Real-time Analytics & Dashboard Design
 
-2️⃣ Iris Flower Classification
-📌 Classified iris species using Supervised ML
-🔗 GitHub Repository
+---
 
-3️⃣ Power BI IPL Dashboard (Live)
-📌 Designed a real-time IPL analytics dashboard with DAX & Power Query M
-🔗 Power BI Dashboard
+## 📈 GitHub Highlights
 
-4️⃣ Titanic Survival Prediction
-📌 Built a machine learning model to predict passenger survival using Scikit-learn
-🔗 GitHub Repository
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)   
 
-📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihal-kumar&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+---
 
-📬 Let's Connect & Collaborate!
+## 📫 Let’s Collaborate!
 
-Coming Soon!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*
 
-💡 I'm open to collaborations, research opportunities, and AI-powered innovations!
+💡 **Open to innovative projects, research opportunities, and data-driven challenges!**
