@@ -25,17 +25,6 @@
 **📋 Languages**  
 Python | SQL | Java | HTML/CSS
 
-**🧰 Frameworks & Libraries**  
-- **Data Science**: Pandas, NumPy, Scikit-learn
-- **Data Visualization**: matplotlib, seaborn  
-- **Machine Learning**: TensorFlow, Scikit-learn
-- **Tools**: Jupyter, Git, MySQL, Selenium, Power BI 
-
-**🎯 Specializations**  
-- Feature Engineering & Model Optimization  
-- Automated Web Scraping & Data Pipelines  
-- Real-time Analytics & Dashboard Design  
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -76,7 +65,16 @@ Python | SQL | Java | HTML/CSS
   </a> 
 </p>
 
+**🧰 Frameworks & Libraries**  
+- **Data Science**: Pandas, NumPy, Scikit-learn
+- **Data Visualization**: matplotlib, seaborn  
+- **Machine Learning**: TensorFlow, Scikit-learn
+- **Tools**: Jupyter, Git, MySQL, Selenium, Power BI 
 
+**🎯 Specializations**  
+- Feature Engineering & Model Optimization  
+- Automated Web Scraping & Data Pipelines  
+- Real-time Analytics & Dashboard Design  
 
 ---
 
