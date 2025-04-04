@@ -20,10 +20,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 
 ---
 
-Here's a more polished and professional version of your technical toolkit:
-
----
-
 ## 🛠️ Technical Toolkit  
 
 ### 🚀 **Programming Languages**  
