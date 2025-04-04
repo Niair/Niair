@@ -84,7 +84,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ---
 
-$## 📫 Let’s Connect!
+### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*
