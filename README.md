@@ -7,16 +7,12 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 
 ---
 
-## 🚀 Professional Profile
+## 💡 About Me
 
-**📚 Education**  
-- **MCA** | Amity Noida | Last Semester Grade: 7.63 *(Post Graduation: 2026)*  
-- **BCA** | SGTBIMIT | CGPA: 8.826 *(Graduation: 2024)*
-
-**🔍 Core Expertise**  
-- **Machine Learning**: Predictive Modeling, Deep Learning  
-- **Deployment**: Production-grade ML models using Scikit-learn, Streamlit, and Flask  
-- **Visualization**: Crafting interactive dashboards with Power BI and Tableau
+👨‍💻 Data science enthusiast with a strong background in machine learning, dashboard development, and automation.
+📊 Passionate about solving real-world problems using AI, Python, and smart analytics.
+🧠 Curious about NLP, intelligent data systems, and building deployable ML applications.
+🚀 Always exploring new tools and ideas to turn data into impactful solutions.
 
 ---
 
