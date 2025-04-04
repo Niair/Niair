@@ -21,7 +21,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 ---
 
 ## 🛠️ Technical Toolkit
-
 ---
 
 ### 🚀 Languages  
@@ -29,7 +28,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25"/> **SQL** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> **Java** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> **HTML/CSS**
-
 ---
 
 ### 🧰 Tools  
@@ -37,7 +35,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> **Git** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70" alt="Streamlit"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60" alt="Flask"/>
-
 ---
 
 ### 📚 Libraries & Frameworks  
@@ -45,7 +42,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25"/> **NumPy** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/> **Scikit-learn** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25"/> **TensorFlow**
-
 ---
 
 ### 🎯 Specializations  
@@ -53,8 +49,6 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 - Automated Web Scraping & Data Pipelines  
 - Real-time Analytics & Dashboard Design  
 - End-to-End ML Model Deployment
-
-
 
 ---
 
