@@ -4,9 +4,9 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ---
 
-<div align="left">
-  <h2>💡 <b>About Me</b></h2>
-</div>
+💡 **ABOUT ME**
+====================
+
 
 - 🎓 **MCA in Data Science** from **Amity University Noida**.  
 - 📊 Passionate about solving **real-world problems** using **Machine Learning**, **Python**, and **smart analytics**.  
