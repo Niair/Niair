@@ -23,22 +23,22 @@ I’m passionate about coding and machine learning, dedicated to turning innovat
 ## 🛠️ Technical Toolkit  
 
 ### 🚀 **Programming Languages**  
----  
+
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25"/> **SQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> **HTML/CSS** |  
 |:---:|:---:|:---:|:---:|  
 
 ### 🧰 **Tools & Platforms**  
----  
+
 | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> **Power BI** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> **Git** | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70"/> **Streamlit** | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60"/> **Flask** |  
 |:---:|:---:|:---:|:---:|  
 
 ### 📚 **Libraries & Frameworks**  
----  
+
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25"/> **Pandas** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25"/> **NumPy** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/> **Scikit-learn** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25"/> **TensorFlow** |  
 |:---:|:---:|:---:|:---:|  
 
 ### 🎯 **Core Competencies**  
----  
+
 - **Feature Engineering & Model Optimization**  
 - **Automated Web Scraping & Data Pipeline Development**  
 - **Real-time Analytics & Interactive Dashboard Design**  
