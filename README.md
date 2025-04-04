@@ -76,11 +76,11 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ### 📈 Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)   
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal-kumar&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Niair&label=Profile%20views&color=0e75b6&style=flat" alt="Niair" /> 
 </p>
+
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=radical)
 
 ---
 
