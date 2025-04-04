@@ -17,6 +17,10 @@ Here’s a refined and more visually cohesive version of your **Technical Toolki
 
 ---
 
+Here's the updated **Technical Toolkit** with **Seaborn** and **Matplotlib** added to the **Libraries & Frameworks** section:
+
+---
+
 ## 🛠️ Technical Toolkit  
 
 ### 🚀 **Programming Languages**  
@@ -40,27 +44,17 @@ Here’s a refined and more visually cohesive version of your **Technical Toolki
 ### 📚 **Libraries & Frameworks**  
 <div align="center">  
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="NumPy"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow"/> |  
-|:---:|:---:|:---:|:---:|  
-| **Pandas** | **NumPy** | **Scikit-learn** | **TensorFlow** |  
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="NumPy"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30" title="Matplotlib"/> |  
+|:---:|:---:|:---:|:---:|:---:|:---:|  
+| **Pandas** | **NumPy** | **Scikit-learn** | **TensorFlow** | **Seaborn** | **Matplotlib** |  
 
 </div>  
 
 ### 🎯 **Core Competencies**  
-✔ **Feature Engineering & Model Optimization**  
-✔ **Automated Web Scraping & Data Pipeline Development**  
-✔ **Real-time Analytics & Interactive Dashboard Design**  
-✔ **End-to-End Machine Learning Deployment**  
-
----
-
-### **Key Improvements:**  
-✅ **Enhanced Readability** – Added labels under icons for clarity.  
-✅ **Consistent Sizing** – Standardized icon widths (30px for most, exceptions for Flask/Streamlit).  
-✅ **Professional Alignment** – Centered grids and improved spacing.  
-✅ **Visual Hierarchy** – Used checkmarks (✔) for competencies to make them scannable.  
-
-Would you like any additional tweaks?
+- **Feature Engineering & Model Optimization**
+- **Automated Web Scraping & Data Pipeline Development**
+- **Real-time Analytics & Interactive Dashboard Design**
+- **End-to-End Machine Learning Deployment**  
 
 ---
 
