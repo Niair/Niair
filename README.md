@@ -13,14 +13,6 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ---
 
-Here’s a refined and more visually cohesive version of your **Technical Toolkit** while keeping the original heading structure:  
-
----
-
-Here's the updated **Technical Toolkit** with **Seaborn** and **Matplotlib** added to the **Libraries & Frameworks** section:
-
----
-
 ## 🛠️ Technical Toolkit  
 
 ### 🚀 **Programming Languages**  
@@ -58,7 +50,7 @@ Here's the updated **Technical Toolkit** with **Seaborn** and **Matplotlib** add
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 **1️⃣ Titanic Survival Prediction**  
 - Developed a machine learning model to predict survival chances using Scikit-learn.  
@@ -82,7 +74,7 @@ Here's the updated **Technical Toolkit** with **Seaborn** and **Matplotlib** add
 
 ---
 
-## 📈 Stats
+### 📈 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)   
 
@@ -92,7 +84,7 @@ Here's the updated **Technical Toolkit** with **Seaborn** and **Matplotlib** add
 
 ---
 
-## 📫 Let’s Connect!
+$## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*
