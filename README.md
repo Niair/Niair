@@ -13,29 +13,54 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ---
 
-### 🛠️ Technical Toolkit  
+Here’s a refined and more visually cohesive version of your **Technical Toolkit** while keeping the original heading structure:  
 
-- 🚀 **Programming Languages**  
+---
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25"/> **SQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> **HTML/CSS** |  
+## 🛠️ Technical Toolkit  
+
+### 🚀 **Programming Languages**  
+<div align="center">  
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="SQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" title="Java"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" title="HTML/CSS"/> |  
 |:---:|:---:|:---:|:---:|  
+| **Python** | **SQL** | **Java** | **HTML/CSS** |  
 
-- 🧰 **Tools & Platforms**  
+</div>  
 
-| <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> **Power BI** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> **Git** | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70"/> **Streamlit** | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60"/> **Flask** |  
+### 🧰 **Tools & Platforms**  
+<div align="center">  
+
+| <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30" title="Power BI"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" title="Git"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70" title="Streamlit"/> | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60" title="Flask"/> |  
 |:---:|:---:|:---:|:---:|  
+| **Power BI** | **Git** | **Streamlit** | **Flask** |  
 
-- 📚 **Libraries & Frameworks**  
+</div>  
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25"/> **Pandas** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25"/> **NumPy** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/> **Scikit-learn** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25"/> **TensorFlow** |  
+### 📚 **Libraries & Frameworks**  
+<div align="center">  
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="NumPy"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow"/> |  
 |:---:|:---:|:---:|:---:|  
+| **Pandas** | **NumPy** | **Scikit-learn** | **TensorFlow** |  
 
-- 🎯 **Core Competencies**  
+</div>  
 
-- **Feature Engineering & Model Optimization**  
-- **Automated Web Scraping & Data Pipeline Development**  
-- **Real-time Analytics & Interactive Dashboard Design**  
-- **End-to-End Machine Learning Deployment**  
+### 🎯 **Core Competencies**  
+✔ **Feature Engineering & Model Optimization**  
+✔ **Automated Web Scraping & Data Pipeline Development**  
+✔ **Real-time Analytics & Interactive Dashboard Design**  
+✔ **End-to-End Machine Learning Deployment**  
+
+---
+
+### **Key Improvements:**  
+✅ **Enhanced Readability** – Added labels under icons for clarity.  
+✅ **Consistent Sizing** – Standardized icon widths (30px for most, exceptions for Flask/Streamlit).  
+✅ **Professional Alignment** – Centered grids and improved spacing.  
+✅ **Visual Hierarchy** – Used checkmarks (✔) for competencies to make them scannable.  
+
+Would you like any additional tweaks?
 
 ---
 
