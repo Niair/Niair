@@ -13,9 +13,9 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ---
 
-## 🛠️ Technical Toolkit  
+### 🛠️ Technical Toolkit  
 
-### 🚀 **Programming Languages**  
+#### 🚀 **Programming Languages**  
 <div align="center">  
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="SQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" title="Java"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" title="HTML/CSS"/> |  
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 </div>  
 
-### 🧰 **Tools & Platforms**  
+#### 🧰 **Tools & Platforms**  
 <div align="center">  
 
 | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30" title="Power BI"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" title="Git"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70" title="Streamlit"/> | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60" title="Flask"/> |  
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 </div>  
 
-### 📚 **Libraries & Frameworks**  
+#### 📚 **Libraries & Frameworks**  
 <div align="center">  
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="NumPy"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30" title="Matplotlib"/> |  
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 </div>  
 
-### 🎯 **Core Competencies**  
+#### 🎯 **Core Competencies**  
 - **Feature Engineering & Model Optimization**
 - **Automated Web Scraping & Data Pipeline Development**
 - **Real-time Analytics & Interactive Dashboard Design**
