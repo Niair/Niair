@@ -76,6 +76,8 @@ Python | SQL | Java | HTML/CSS
 - Automated Web Scraping & Data Pipelines  
 - Real-time Analytics & Dashboard Design
 
+<table> <tr> <th align="left">🚀 Languages</th> <th align="left">🧰 Tools</th> <th align="left">📚 Libraries & Frameworks</th> <th align="left">🎯 Specializations</th> </tr> <tr> <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> Python <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> Java <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25"/> SQL <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> HTML/CSS </td> <td> <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25"/> Power BI <br> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> Git <br> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70"/> <br> <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60"/> </td> <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25"/> Pandas <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25"/> NumPy <be
+
 ---
 
 ## 🚀 Projects
@@ -102,7 +104,7 @@ Python | SQL | Java | HTML/CSS
 
 ---
 
-## 📈 GitHub Highlights
+## 📈 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue)   
 
@@ -112,7 +114,7 @@ Python | SQL | Java | HTML/CSS
 
 ---
 
-## 📫 Let’s Collaborate!
+## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*
