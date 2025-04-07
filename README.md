@@ -52,25 +52,25 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ### 🚀 Projects
 
-**1️⃣ Titanic Survival Prediction**  
-- Developed a machine learning model to predict survival chances using Scikit-learn.  
-- Implemented data preprocessing, feature engineering, and model evaluation.  
+**1️⃣ Book Recommender System**  
+- Designed a recommendation engine using collaborative filtering and content-based approaches.  
+- Enhanced user experience with personalized book suggestions.  
 🔗 [View Project](#)
 
-**2️⃣ Iris Flower Classification**  
-- Built and optimized a classifier to identify iris species.  
-- Demonstrated model accuracy improvements through iterative refinements.  
-🔗 [View Project](#)
+**2️⃣ Mobile-Device-Data-Insights-Using-EDA**  
+- Processed and cleaned a dataset of over 5,000 smartphone records using Python (Pandas, NumPy), resolving missing values and optimizing feature consistency. 
+- Uncovered key usage patterns through visual analytics, contributing to 15% better feature selection and improved model interpretability. 
+🔗 [View Project](https://github.com/Niair/Mobile-Device-Data-Insights-Using-EDA)
 
 **3️⃣ Power BI IPL Dashboard (Live)**  
 - Created an interactive dashboard analyzing IPL data in real time using Power BI.  
 - Leveraged DAX and Power Query for dynamic data visualizations.  
-🔗 [View Dashboard](#)
+🔗 [View Dashboard](https://github.com/Niair/IPL-Live-Analysis-Project-using-APIs-Power-BI--/tree/main)
 
-**4️⃣ Book Recommender System**  
-- Designed a recommendation engine using collaborative filtering and content-based approaches.  
-- Enhanced user experience with personalized book suggestions.  
-🔗 [View Project](#)
+**4️⃣ Power-BI-Sales-Performance-Dashboard**  
+- This interactive dashboard offers a complete view of sales performance by team, individual, and region. Monitor total sales, YoY growth, and top products with dynamic filters and drill-downs. 
+- Built for managers to spot trends, top performers, and improvement areas in real time.
+🔗 [View Project](https://github.com/Niair/Power-BI-Sales-Performance-Dashboard)
 
 ---
 
