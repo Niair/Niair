@@ -55,7 +55,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 **1️⃣ Book Recommender System**  
 - Designed a recommendation engine using collaborative filtering and content-based approaches.  
 - Enhanced user experience with personalized book suggestions.  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Niair/Book-Recommender-System/tree/main)
 
 **2️⃣ Mobile-Device-Data-Insights-Using-EDA**  
 - Processed and cleaned a dataset of over 5,000 smartphone records using Python (Pandas, NumPy), resolving missing values and optimizing feature consistency. 
