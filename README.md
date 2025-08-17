@@ -53,8 +53,9 @@ Perfect 👌 Since your **Customer Churn App** is your most professional project
 
 **1️⃣ Customer Churn Prediction (with MLOps & MLflow)**
 
-* Developed an end-to-end **Customer Churn Prediction system** with automated pipelines for data preprocessing, feature engineering, model training, and evaluation using **MLflow, DVC, and Optuna**.
-* Implemented **MLOps best practices** (CI/CD, Docker, Kubernetes, AWS, GitHub Actions) for scalable deployment, enabling **real-time churn insights** and improving customer retention strategies.
+* Built an end-to-end Customer Churn Prediction system with automated pipelines for data preprocessing, feature engineering, model training, and evaluation using MLflow, DVC, and Optuna.
+* Integrated MLOps best practices with Docker, DagsHub, AWS, and GitHub Actions (CI/CD) for scalable deployment, experiment tracking, and version control.
+* Enabled real-time churn insights to improve customer retention strategies and business decision-making.
   🔗 [View Project](https://github.com/Niair/Customer_Churn_Prediction_using_MLOpps_MLflow_AWS_CI-CD/tree/main)
 
 **2️⃣ Book Recommender System**
