@@ -84,19 +84,14 @@ Perfect 👌 Since your **Customer Churn App** is your most professional project
 
 ---
 
-### 📈 Stats
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Niair&label=Profile%20views&color=0e75b6&style=flat" alt="Niair" /> 
-</p>
-
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=radical)
+### 📊 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=radical" alt="Niair's GitHub stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niair&layout=compact&theme=radical" alt="Top Languages" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niair&theme=radical" alt="GitHub Streak" height="180"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Niair&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/> </p>
 
 ---
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](www.linkedin.com/in/nihal-kumar-892365233)]
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*
 
 💡 **Open to innovative projects, research opportunities, and data-driven challenges!**
