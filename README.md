@@ -91,7 +91,8 @@ Perfect 👌 Since your **Customer Churn App** is your most professional project
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](www.linkedin.com/in/nihal-kumar-892365233)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088)](https://yourportfolio.com) *Coming Soon!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nihal-kumar-892365233)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-ff4088?style=for-the-badge&logo=react)](https://yourportfolio.com)
+
 
 💡 **Open to innovative projects, research opportunities, and data-driven challenges!**
