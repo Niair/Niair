@@ -85,7 +85,7 @@ Perfect 👌 Since your **Customer Churn App** is your most professional project
 ---
 
 ### 📊 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=radical" alt="Niair's GitHub stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niair&layout=compact&theme=radical" alt="Top Languages" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niair&theme=radical" alt="GitHub Streak" height="180"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Niair&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niair&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niair&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Niair&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
 
 ---
 
