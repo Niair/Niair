@@ -45,25 +45,42 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ### 🚀 Projects
 
-**1️⃣ Book Recommender System**  
-- Designed a recommendation engine using collaborative filtering and content-based approaches.  
-- Enhanced user experience with personalized book suggestions.  
-🔗 [View Project](https://github.com/Niair/Book-Recommender-System/tree/main)
+Perfect 👌 Since your **Customer Churn App** is your most professional project, we’ll move it to **Project 1️⃣** and shift the others down. Here’s the **rewritten project section** for your README:
 
-**2️⃣ Mobile-Device-Data-Insights-Using-EDA**  
-- Processed and cleaned a dataset of over 5,000 smartphone records using Python (Pandas, NumPy), resolving missing values and optimizing feature consistency. 
-- Uncovered key usage patterns through visual analytics, contributing to 15% better feature selection and improved model interpretability. 
-🔗 [View Project](https://github.com/Niair/Mobile-Device-Data-Insights-Using-EDA)
+---
 
-**3️⃣ Power BI IPL Dashboard (Live)**  
-- Created an interactive dashboard analyzing IPL data in real time using Power BI.  
-- Leveraged DAX and Power Query for dynamic data visualizations.  
-🔗 [View Dashboard](https://github.com/Niair/IPL-Live-Analysis-Project-using-APIs-Power-BI--/tree/main)
+### 🚀 Projects
 
-**4️⃣ Power-BI-Sales-Performance-Dashboard**  
-- This interactive dashboard offers a complete view of sales performance by team, individual, and region. Monitor total sales, YoY growth, and top products with dynamic filters and drill-downs. 
-- Built for managers to spot trends, top performers, and improvement areas in real time.
-🔗 [View Project](https://github.com/Niair/Power-BI-Sales-Performance-Dashboard)
+**1️⃣ Customer Churn Prediction (with MLOps & MLflow)**
+
+* Developed an end-to-end **Customer Churn Prediction system** with automated pipelines for data preprocessing, feature engineering, model training, and evaluation using **MLflow, DVC, and Optuna**.
+* Implemented **MLOps best practices** (CI/CD, Docker, Kubernetes, AWS, GitHub Actions) for scalable deployment, enabling **real-time churn insights** and improving customer retention strategies.
+  🔗 [View Project](https://github.com/Niair/Customer_Churn_Prediction_using_MLOpps_MLflow_AWS_CI-CD/tree/main)
+
+**2️⃣ Book Recommender System**
+
+* Designed a recommendation engine using collaborative filtering and content-based approaches.
+* Enhanced user experience with personalized book suggestions.
+  🔗 [View Project](https://github.com/Niair/Book-Recommender-System/tree/main)
+
+**3️⃣ Mobile-Device-Data-Insights-Using-EDA**
+
+* Processed and cleaned a dataset of over 5,000 smartphone records using Python (Pandas, NumPy), resolving missing values and optimizing feature consistency.
+* Uncovered key usage patterns through visual analytics, contributing to 15% better feature selection and improved model interpretability.
+  🔗 [View Project](https://github.com/Niair/Mobile-Device-Data-Insights-Using-EDA)
+
+**4️⃣ Power BI IPL Dashboard (Live)**
+
+* Created an interactive dashboard analyzing IPL data in real time using Power BI.
+* Leveraged DAX and Power Query for dynamic data visualizations.
+  🔗 [View Dashboard](https://github.com/Niair/IPL-Live-Analysis-Project-using-APIs-Power-BI--/tree/main)
+
+**5️⃣ Power-BI-Sales-Performance-Dashboard**
+
+* This interactive dashboard offers a complete view of sales performance by team, individual, and region. Monitor total sales, YoY growth, and top products with dynamic filters and drill-downs.
+* Built for managers to spot trends, top performers, and improvement areas in real time.
+  🔗 [View Project](https://github.com/Niair/Power-BI-Sales-Performance-Dashboard)
+
 
 ---
 
