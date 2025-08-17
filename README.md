@@ -13,34 +13,27 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine lea
 
 ---
 
-### 🛠️ Technical Toolkit  
+### 🛠️ **Tech Stack**
 
-#### 🚀 **Programming Languages**  
-<div align="center">  
+<div align="center">
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="SQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" title="Java"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" title="HTML/CSS"/> |  
-|:---:|:---:|:---:|:---:|  
-| **Python** | **SQL** | **Java** | **HTML/CSS** |  
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib"/> |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|                                                             **Python**                                                            |                                                            **NumPy**                                                           |                                                             **Pandas**                                                            |                                                       **Scikit-learn**                                                       |                                                                 **TensorFlow**                                                                |                                                   **Matplotlib**                                                   |
 
-</div>  
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" title="MongoDB"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80" title="Streamlit"/> | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60" title="Flask"/> |
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|                                                                **MySQL**                                                                |                                                                  **MongoDB**                                                                  |                                         **Power BI**                                         |                                                        **Streamlit**                                                        |                                                **Flask**                                                |
 
-#### 🧰 **Tools & Platforms**  
-<div align="center">  
+| <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="40" title="MLflow"/> | <img src="https://dvc.org/static/favicon-32x32.png" width="40" title="DVC"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub"/> |
+| :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|                                             **MLflow**                                            |                                    **DVC**                                   |                                                             **Docker**                                                            |                                                               **Kubernetes**                                                               |                                                **GitHub (CI/CD)**                                                |
 
-| <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30" title="Power BI"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" title="Git"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="70" title="Streamlit"/> | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60" title="Flask"/> |  
-|:---:|:---:|:---:|:---:|  
-| **Power BI** | **Git** | **Streamlit** | **Flask** |  
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Heroku_logo.svg" width="50" title="Heroku"/> | <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" title="Hugging Face"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="40" title="Render"/> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                            **AWS**                                                                            |                                                 **Heroku**                                                 |                                            **Hugging Face**                                           |                                                             **Render**                                                            |
 
-</div>  
-
-#### 📚 **Libraries & Frameworks**  
-<div align="center">  
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="NumPy"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" title="TensorFlow"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30" title="Matplotlib"/> |  
-|:---:|:---:|:---:|:---:|:---:|:---:|  
-| **Pandas** | **NumPy** | **Scikit-learn** | **TensorFlow** | **Seaborn** | **Matplotlib** |  
-
-</div>  
+</div>
 
 #### 🎯 **Core Competencies**  
 - **Feature Engineering & Model Optimization**
