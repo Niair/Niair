@@ -1,99 +1,204 @@
-# 👋 Hi, I'm Nihal Kumar  
-
-Welcome to my GitHub profile! 🚀 I’m passionate about coding and machine learning, dedicated to turning innovative ideas into actionable projects. My focus is on developing end-to-end ML models, performing insightful analytics, and designing interactive dashboards to support data-driven decision-making.
-
----
-
-### 💡 **About Me**
-
-- 🎓 **MCA in Data Science** from **Amity University Noida**.  
-- 📊 Passionate about solving **real-world problems** using **Machine Learning**, **Python**, and **smart analytics**.  
-- 🧠 Curious about **NLP**, **intelligent data systems**, and **building deployable ML applications**.  
-- 🚀 Always exploring **new tools** and **ideas** to turn **data into impactful solutions**.  
-
----
-
-### 🛠️ **Tech Stack**
-
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib"/> |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|                                                             **Python**                                                            |                                                            **NumPy**                                                           |                                                             **Pandas**                                                            |                                                       **Scikit-learn**                                                       |                                                                 **TensorFlow**                                                                |                                                   **Matplotlib**                                                   |
+# 👋 Hi, I'm Nihal Kumar
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" title="MongoDB"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="80" title="Streamlit"/> | <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="60" title="Flask"/> |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|                                                                **MySQL**                                                                |                                                                  **MongoDB**                                                                  |                                         **Power BI**                                         |                                                        **Streamlit**                                                        |                                                **Flask**                                                |
+### Machine Learning Engineer | Data Scientist | MLOps Enthusiast
 
-| <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="40" title="MLflow"/> | <img src="https://dvc.org/static/favicon-32x32.png" width="40" title="DVC"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub"/> |
-| :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
-|                                             **MLflow**                                            |                                    **DVC**                                   |                                                             **Docker**                                                            |                                                               **Kubernetes**                                                               |                                                **GitHub (CI/CD)**                                                |
+*Transforming data into intelligent solutions through end-to-end ML pipelines and scalable deployments*
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Heroku_logo.svg" width="50" title="Heroku"/> | <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" title="Hugging Face"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="40" title="Render"/> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                            **AWS**                                                                            |                                                 **Heroku**                                                 |                                            **Hugging Face**                                           |                                                             **Render**                                                            |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-kumar-892365233)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niair)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
-#### 🎯 **Core Competencies**  
-- **Feature Engineering & Model Optimization**
-- **Automated Web Scraping & Data Pipeline Development**
-- **Real-time Analytics & Interactive Dashboard Design**
-- **End-to-End Machine Learning Deployment**  
+---
+
+## 🚀 About Me
+
+🎓 **MCA in Data Science** from **Amity University Noida**
+
+I'm a passionate ML engineer who loves building production-ready machine learning systems. My expertise lies in creating end-to-end ML pipelines—from data preprocessing and feature engineering to model deployment with MLOps best practices. I thrive on solving real-world problems using data-driven approaches and turning complex datasets into actionable insights.
+
+**🔭 Currently Working On:** Production ML systems with MLOps automation  
+**🌱 Currently Learning:** Advanced NLP techniques and Kubernetes orchestration  
+**💡 Interested In:** MLOps, Real-time Analytics, Intelligent Automation  
+**🎯 2025 Goal:** Contribute to open-source ML projects and build scalable AI solutions
 
 ---
 
-### 🚀 Projects
+## 🛠️ Tech Stack
 
-Perfect 👌 Since your **Customer Churn App** is your most professional project, we’ll move it to **Project 1️⃣** and shift the others down. Here’s the **rewritten project section** for your README:
+### **Languages & Core Libraries**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
+### **Data Visualization & BI**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🚀 Projects
+### **MLOps & Deployment**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**1️⃣ Customer Churn Prediction (with MLOps & MLflow)**
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-* Built an end-to-end Customer Churn Prediction system with automated pipelines for data preprocessing, feature engineering, model training, and evaluation using MLflow, DVC, and Optuna.
-* Integrated MLOps best practices with Docker, DagsHub, AWS, and GitHub Actions (CI/CD) for scalable deployment, experiment tracking, and version control.
-* Enabled real-time churn insights to improve customer retention strategies and business decision-making.
-  🔗 [View Project](https://github.com/Niair/Customer_Churn_Prediction_using_MLOpps_MLflow_AWS_CI-CD/tree/main)
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-**2️⃣ Book Recommender System**
-
-* Designed a recommendation engine using collaborative filtering and content-based approaches.
-* Enhanced user experience with personalized book suggestions.
-  🔗 [View Project](https://github.com/Niair/Book-Recommender-System/tree/main)
-
-**3️⃣ Mobile-Device-Data-Insights-Using-EDA**
-
-* Processed and cleaned a dataset of over 5,000 smartphone records using Python (Pandas, NumPy), resolving missing values and optimizing feature consistency.
-* Uncovered key usage patterns through visual analytics, contributing to 15% better feature selection and improved model interpretability.
-  🔗 [View Project](https://github.com/Niair/Mobile-Device-Data-Insights-Using-EDA)
-
-**4️⃣ Power BI IPL Dashboard (Live)**
-
-* Created an interactive dashboard analyzing IPL data in real time using Power BI.
-* Leveraged DAX and Power Query for dynamic data visualizations.
-  🔗 [View Dashboard](https://github.com/Niair/IPL-Live-Analysis-Project-using-APIs-Power-BI--/tree/main)
-
-**5️⃣ Power-BI-Sales-Performance-Dashboard**
-
-* This interactive dashboard offers a complete view of sales performance by team, individual, and region. Monitor total sales, YoY growth, and top products with dynamic filters and drill-downs.
-* Built for managers to spot trends, top performers, and improvement areas in real time.
-  🔗 [View Project](https://github.com/Niair/Power-BI-Sales-Performance-Dashboard)
-
+### **Web Frameworks**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-### 📊 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niair&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niair&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Niair&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+## 💼 Core Competencies
+
+```
+✅ End-to-End ML Pipeline Development    ✅ MLOps & CI/CD Automation
+✅ Feature Engineering & Optimization    ✅ Real-time Analytics & Dashboards
+✅ Model Deployment & Monitoring         ✅ Data Pipeline Architecture
+✅ Experiment Tracking & Versioning      ✅ Cloud Infrastructure (AWS)
+```
 
 ---
 
-### 📫 Let’s Connect!
+## 🏆 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nihal-kumar-892365233)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-ff4088?style=for-the-badge&logo=react)](https://yourportfolio.com)
+### 🥇 [Customer Churn Prediction with MLOps](https://github.com/Niair/Customer_Churn_Prediction_using_MLOpps_MLflow_AWS_CI-CD/tree/main)
+**Production-ready ML system with complete MLOps pipeline**
 
+- 🔧 Built automated pipelines for data preprocessing, feature engineering, model training & evaluation
+- 🚀 Integrated **MLflow**, **DVC**, **Optuna** for experiment tracking and hyperparameter optimization
+- ☁️ Deployed on **AWS** with **Docker**, **DagsHub**, and **GitHub Actions** for CI/CD
+- 📊 Achieved real-time churn prediction enabling proactive customer retention strategies
 
-💡 **Open to innovative projects, research opportunities, and data-driven challenges!**
+**Tech Stack:** `Python` `MLflow` `DVC` `Docker` `AWS` `GitHub Actions` `Optuna`
+
+---
+
+### 📚 [Book Recommender System](https://github.com/Niair/Book-Recommender-System/tree/main)
+**Intelligent recommendation engine for personalized book discovery**
+
+- 🤖 Implemented collaborative filtering and content-based recommendation algorithms
+- 🎯 Enhanced user experience with personalized suggestions based on reading patterns
+- 📈 Processed 100K+ book records with optimized similarity computations
+
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Flask`
+
+---
+
+### 📱 [Mobile Device Data Insights Using EDA](https://github.com/Niair/Mobile-Device-Data-Insights-Using-EDA)
+**Comprehensive exploratory analysis of smartphone usage patterns**
+
+- 🔍 Analyzed 5,000+ smartphone records, resolving data quality issues and feature inconsistencies
+- 📊 Uncovered critical usage patterns through advanced visual analytics
+- ⚡ Improved feature selection by 15% leading to better model interpretability
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+---
+
+### 🏏 [IPL Live Dashboard](https://github.com/Niair/IPL-Live-Analysis-Project-using-APIs-Power-BI--/tree/main)
+**Real-time cricket analytics dashboard**
+
+- 📡 Created interactive dashboard analyzing IPL data in real-time using live APIs
+- 📊 Leveraged **DAX** and **Power Query** for dynamic visualizations
+- 🎯 Built comprehensive player and team performance metrics
+
+**Tech Stack:** `Power BI` `DAX` `Power Query` `REST APIs`
+
+---
+
+### 💼 [Sales Performance Dashboard](https://github.com/Niair/Power-BI-Sales-Performance-Dashboard)
+**Executive-level sales analytics platform**
+
+- 📈 Comprehensive view of sales performance by team, individual, and region
+- 📊 Real-time YoY growth tracking and top product identification
+- 🎯 Dynamic filters and drill-downs for actionable insights
+
+**Tech Stack:** `Power BI` `DAX` `Power Query`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niair&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niair&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niair&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Niair&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Niair&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💡 What Drives Me
+
+> "The goal is to turn data into information, and information into insight." - Carly Fiorina
+
+I believe in building ML systems that not only achieve high accuracy but are also **scalable**, **maintainable**, and **production-ready**. My approach combines rigorous data science with software engineering best practices to create solutions that deliver real business value.
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to work on:
+- 🚀 Production ML systems and MLOps projects
+- 🤖 Open-source ML/AI initiatives
+- 📊 Real-time analytics and intelligent dashboards
+- 💡 Innovative data science challenges
+
+**📫 Reach out:** Feel free to connect with me for collaborations, opportunities, or just a chat about ML and data science!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-kumar-892365233)
+
+**⭐️ From [Niair](https://github.com/Niair) | Building the future with data, one model at a time**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 "Code. Deploy. Scale. Repeat."
+
+![Profile Views](https://komarev.com/ghpvc/?username=Niair&color=blueviolet&style=for-the-badge)
+
+</div>
