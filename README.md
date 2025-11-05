@@ -20,9 +20,9 @@
 
 I'm a passionate ML engineer who loves building production-ready machine learning systems. My expertise lies in creating end-to-end ML pipelines—from data preprocessing and feature engineering to model deployment with MLOps best practices. I thrive on solving real-world problems using data-driven approaches and turning complex datasets into actionable insights.
 
-**🔭 Currently Working On:** Production ML systems with MLOps automation  
-**🌱 Currently Learning:** Advanced NLP techniques and Kubernetes orchestration  
-**💡 Interested In:** MLOps, Real-time Analytics, Intelligent Automation  
+**🔭 Currently Working On:** Sentinel AI Security Voice Asistant  
+**🌱 Currently Learning:** Agentic AI, MCP Servers
+**💡 Interested In:** AI, MLOps, Real-time Analytics, Intelligent Automation  
 **🎯 2025 Goal:** Contribute to open-source ML projects and build scalable AI solutions
 
 ---
